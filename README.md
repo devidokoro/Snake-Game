@@ -1,1 +1,1 @@
-Created a Java program that emulates the famous Snake Game. Credits to Bro Code, as most if not all code was sourced from their Youtube tutorial. The user controls the snake, with the goal being to eat the red apples and grow larger in size.
+Created a Java program that emulates the famous Snake Game. Credits to Bro Code, as most if not all code was sourced from their YouTube tutorial. The user controls the snake, with the goal being to eat the red apples and grow larger in size.
